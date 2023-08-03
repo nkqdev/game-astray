@@ -1,1 +1,1 @@
-# game-astray
+# Project game Astray Unity
